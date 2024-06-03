@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was elected to serve as a Social Co-Chair of the UVA Computer Science Graduate Student Group [(CSGSG)] (https://csgsg.org/).
+I was elected to serve as a Social Co-Chair of the UVA Computer Science Graduate Student Group [(CSGSG)](https://csgsg.org/).
