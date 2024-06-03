@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a CS PhD program at [University of Virginia](https://www.virginia.edu/) advised by Professor [Afsaneh Doryab](https://www.afsanehdoryab.com/)!
+I started a Computer Science PhD program at [University of Virginia](https://www.virginia.edu/) advised by Professor [Afsaneh Doryab](https://www.afsanehdoryab.com/).
