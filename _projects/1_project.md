@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: project 1
 description: with background image
@@ -57,4 +57,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
