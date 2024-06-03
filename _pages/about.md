@@ -16,4 +16,4 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi I'm Maria. I am a second year CS PhD student at [University of Virginia](https://www.virginia.edu/) in [HAI Lab](https://www.afsanehdoryab.com/hai-technology-lab).
+Hi I'm Maria. I am a Computer Science PhD student at [University of Virginia](https://www.virginia.edu/) in [HAI Lab](https://www.afsanehdoryab.com/hai-technology-lab).
