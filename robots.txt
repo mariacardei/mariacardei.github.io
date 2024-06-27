@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maria-cardei.github.io/sitemap.xml
+Sitemap: https://mariacardei.github.io/sitemap.xml
