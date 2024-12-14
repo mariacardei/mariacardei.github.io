@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I traveled to Bari, Italy for the _[2024 IEEE Conference on Automation Science and Engineering](https://2024.ieeecase.org/)_ and presented our paper **Practical Heuristics for Victim Tagging During a Mass Casualty Incident Emergency Medical Response**. 
+I traveled to Bari, Italy for the _2024 IEEE 20th International Conference on Automation Science and Engineering_ [(CASE)](https://2024.ieeecase.org/) and presented our paper **Practical Heuristics for Victim Tagging During a Mass Casualty Incident Emergency Medical Response**. 
