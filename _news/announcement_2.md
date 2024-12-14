@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a Computer Science PhD program at [University of Virginia](https://www.virginia.edu/) advised by Professor [Afsaneh Doryab](https://www.afsanehdoryab.com/) in the [Human-AI Interaction Lab](https://hai-lab-uva.github.io/).
+I started a Computer Science PhD program at [University of Virginia](https://www.virginia.edu/) advised by Professor [Afsaneh Doryab](https://www.afsanehdoryab.com/) in the [Human-AI Interaction Lab](https://hai-lab-uva.github.io/). I was awarded an NSF NRT Fellowship, along with a Provost Fellowship.
