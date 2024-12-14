@@ -31,12 +31,20 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+// // Profile
+// .profile {
+//   img {
+//     width: 100%;
+//   }
+// }
 // Profile
 .profile {
   img {
-    width: 100%;
+    width: 150px; // Set the desired width
+    height: auto; // Maintain the aspect ratio
   }
 }
+
 
 // TODO: redefine content layout.
 
