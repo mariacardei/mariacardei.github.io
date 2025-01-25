@@ -43,6 +43,8 @@ body.sticky-bottom-footer {
     // width: 150px; // Set the desired width EDITED THIS FOR PROFILE PHOTO
     // height: auto; // Maintain the aspect ratio
     width: 50%;
+    max-width: 500px;
+    height: auto;
   }
 }
 
