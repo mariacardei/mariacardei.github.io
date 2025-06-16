@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received an Honorable Mention from the 2025 [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/).
+I received the 2025 [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/) award!
